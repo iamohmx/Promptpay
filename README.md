@@ -1,10 +1,10 @@
 # วิธีใช้งาน Promptpay เบื้องต้น
 
-// index.php <br>
-```php // เบอร์ Promptpay <br>
-  $phone = "0987654321";<br>
-  // จำนวนเงิน<br>
-  $amount = 10;<br>
-  // เรียกไฟล์ เข้ามา<br>
-  require 'qr.php';<br>
+// index.php 
+```php // เบอร์ Promptpay 
+  $phone = "0987654321";
+  // จำนวนเงิน
+  $amount = 10;
+  // เรียกไฟล์ เข้ามา
+  require 'qr.php';
 ```
